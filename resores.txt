@@ -1,1 +1,2 @@
+drawing stuff: https://stackoverflow.com/questions/2368784/draw-on-html5-canvas-using-a-mouse
 drawing program save background img:https://gist.github.com/MohammedEssehemy/7773042b6e14d772f3ca567dfee08f5f
